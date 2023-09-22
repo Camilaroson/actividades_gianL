@@ -1,0 +1,57 @@
+#cubito{
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+}
+
+#padre{
+    display: flex;
+    background-color: orange;
+    ;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    background-color: orangered;
+}
+
+
+
+li{
+    margin: 15px;
+    color: whitesmoke;
+}
+
+
+#portada{
+   width: 100%;
+   height: 300px; 
+}
+
+#product{
+    width: 150px;
+}
+
+#carrito{
+    width: 50px;
+}
+
+#elemento{
+    border: 2px solid gray;
+    width: 200px;
+    margin: 10px;
+}
+
+p{
+    text-align: center;
+}
+
+#carro,#producto{
+    display: flex;
+    justify-content: center;
+}
+
+#productos{
+    display: flex;
+}
